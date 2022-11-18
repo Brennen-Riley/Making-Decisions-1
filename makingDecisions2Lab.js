@@ -107,7 +107,7 @@ console.log(someNum)
 myFavoriteNumbers.push(someNum)
 console.log(myFavoriteNumbers[6])
 
-if (myFavoriteNumbers < [6]){
+if (myFavoriteNumbers > [5]){
   console.log("There are not enough elements in this array")
 }
 console.log(myFavoriteNumbers)
